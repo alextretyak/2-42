@@ -21,9 +21,10 @@
 ```
 
 '‘<cut />’'Наверняка, многие их вас обратили внимание на -‘злоупотребление’частое встречание числа ‘‘сорок два’’ [[[в различных документах по IT-тематике]]]на веб-страницах, посвящённых IT-тематике[[[ [особенно часто я встречал в документациях к языкам программирования]]]]. Вот примеры, которые встретились лично мне[[[ случайно на протяжении 4 месяцев [специально число ‘‘сорок два’’ я не искал, просто делал скриншот с пометкой '42']]]]:
-‘Осторожно, 15 больших скриншотов!’{
+‘Осторожно, 16 больших скриншотов!’{
 Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2001-11-2017%20195515%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2001-11-2017%20195515%20'42'.png]
 Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2005-02-2018%20085859%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2005-02-2018%20085859%20'42'.png]
+Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2006-03-2018%20224345%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2006-03-2018%20224345%20'42'.png]
 Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2010-12-2017%20135017%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2010-12-2017%20135017%20'42'.png]
 Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2024-11-2017%20170731%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2024-11-2017%20170731%20'42'.png]
 Р‘https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2024-11-2017%20200223%20'42'.png’[https://raw.githubusercontent.com/alextretyak/2-42/master/'42'/1.%20Скриншот%2024-11-2017%20200223%20'42'.png]
